@@ -21,7 +21,7 @@ Watch it here! <https://www.youtube.com/watch?v=zUKsRrf2KIQ>
 Watch the presentation here! <https://youtu.be/q2ALIe3VezE>
 
 ### Here an illustration of SECure (made by @playthink on Twitter)
-![alt text](https://github.com/ai-ethics/SECure/blob/master/SECure%20Playthink.jpg)
+![alt text]<https://github.com/ai-ethics/SECure/blob/master/SECure%20Playthink.jpg>
 
 
 ### Contact
