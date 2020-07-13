@@ -1,5 +1,4 @@
-# **SECure: A Social and Environmental Certificate for AI Systems**
-## A project by Abhishek Gupta, Camylle Lanteigne, and Sara Kingsley
+# A project by Abhishek Gupta, Camylle Lanteigne, and Sara Kingsley
 
 ### A Note on this Project
 This project is currently in its infancy, and we (the authors) plan to continue to expand and this both theoretically and concretely as a framework to promote environmentally and socially responsible ML.
@@ -21,7 +20,7 @@ Watch it here! <https://www.youtube.com/watch?v=zUKsRrf2KIQ>
 Watch the presentation here! <https://youtu.be/q2ALIe3VezE>
 
 ### Here an illustration of SECure (made by @playthink on Twitter)
-![alt text](https://github.com/ai-ethics/SECure/blob/master/SECure%20Playthink.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/ai-ethics/SECure-A-Social-and-Environmental-Certificate-for-AI-Systems/master/SECure%20Playthink.jpg)
 
 
 ### Contact
