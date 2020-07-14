@@ -2,7 +2,7 @@
 ## A project by Abhishek Gupta, Camylle Lanteigne, and Sara Kingsley
 
 ### A Note on this Project
-This project is currently in its infancy, and we (the authors) plan to continue to expand and this both theoretically and concretely as a framework to promote environmentally and socially responsible ML.
+This project is currently in its infancy, and we (the authors) plan to continue to expand on this both theoretically and concretely as a framework to promote environmentally and socially responsible ML.
 
 ### Abstract
 In a world increasingly dominated by AI applications, an understudied aspect is the carbon and social footprint of these power-hungry algorithms that require copious computation and a trove of data for training and prediction. While profitable in the short-term, these practices are unsustainable and socially extractive from both a data-use and energy-use perspective. This work proposes an ESG-inspired framework combining socio-technical measures to build eco-socially responsible AI systems. The framework has four pillars: compute-efficient machine learning, federated learning, data sovereignty, and a LEEDesque certificate.
