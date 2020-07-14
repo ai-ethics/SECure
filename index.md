@@ -1,4 +1,5 @@
-# A project by Abhishek Gupta, Camylle Lanteigne, and Sara Kingsley
+# SECure: A Social and Environmental Certificate for AI Systems
+## A project by Abhishek Gupta, Camylle Lanteigne, and Sara Kingsley
 
 ### A Note on this Project
 This project is currently in its infancy, and we (the authors) plan to continue to expand and this both theoretically and concretely as a framework to promote environmentally and socially responsible ML.
