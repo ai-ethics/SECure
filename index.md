@@ -22,7 +22,7 @@ Watch it here! <https://www.youtube.com/watch?v=zUKsRrf2KIQ>
 ### SECure was presented at the Extraction: Tracing the Veins Conference (Massey University)
 Watch the presentation here! <https://youtu.be/q2ALIe3VezE>
 
-### Here an illustration of SECure (made by @playthink on Twitter)
+### Here is an illustration of SECure (made by @playthink on Twitter)
 ![alt text](https://raw.githubusercontent.com/ai-ethics/SECure-A-Social-and-Environmental-Certificate-for-AI-Systems/master/SECure%20Playthink.jpg)
 
 
