@@ -27,4 +27,4 @@ Watch the presentation here! <https://youtu.be/q2ALIe3VezE>
 
 
 ### Contact
-Reach out to the authors here: abhishek@montrealethics.ai | camylle@montrealethics.ai | skingsle@cs.cmu.edu
+Reach out to the authors here: abhishek [at] montrealethics [dot] ai | camylle [at] montrealethics [dot] ai | skingsle [at] cs [dot] cmu [dot] edu
