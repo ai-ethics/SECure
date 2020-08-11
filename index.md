@@ -4,7 +4,7 @@
 #### SECure has so far been presented at the Orchestrating Knowledges Symposium (CANSEE), the Extraction: Tracing the Veins (Massey University), the Global Challenges in Economics and Computation Conference 2020, and the ICML Deploying and Monitoring Machine Learning Systems workshop 2020.
 
 ### A Note on this Project
-This project is currently in its infancy, and we (the authors) plan to continue to expand on this both theoretically and concretely as a framework to promote environmentally and socially responsible ML.
+This project is currently in its infancy, and we (the authors) plan to continue to expand on this both theoretically and concretely as a framework to promote environmentally and socially responsible ML. We invite you to submit feedback through [this form](https://bit.ly/secure-feedback) and really appreciate your contribution into making this a more useful tool for the community!
 
 ### Abstract
 *In a world increasingly dominated by AI applications, an understudied aspect is the carbon and social footprint of these power-hungry algorithms that require copious computation and a trove of data for training and prediction. While profitable in the short-term, these practices are unsustainable and socially extractive from both a data-use and energy-use perspective. This work proposes an ESG-inspired framework combining socio-technical measures to build eco-socially responsible AI systems. The framework has four pillars: compute-efficient machine learning, federated learning, data sovereignty, and a LEEDesque certificate.
