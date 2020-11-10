@@ -1,7 +1,7 @@
 # SECure: A Social and Environmental Certificate for AI Systems
 ## A project by Abhishek Gupta, Camylle Lanteigne, and Sara Kingsley
 
-#### SECure has so far been presented at the Orchestrating Knowledges Symposium (CANSEE), the Extraction: Tracing the Veins (Massey University), the Global Challenges in Economics and Computation Conference 2020, and the ICML Deploying and Monitoring Machine Learning Systems workshop 2020.
+#### SECure has so far been presented at the Orchestrating Knowledges Symposium (CANSEE), the Extraction: Tracing the Veins (Massey University), the Global Challenges in Economics and Computation Conference 2020, MD4SG 2020 Workshop, and the ICML Deploying and Monitoring Machine Learning Systems workshop 2020.
 
 ### A Note on this Project
 This project is currently in its infancy, and we (the authors) plan to continue to expand on this both theoretically and concretely as a framework to promote environmentally and socially responsible ML. We invite you to submit feedback through [this form](https://bit.ly/secure-feedback) and really appreciate your contribution into making this a more useful tool for the community!
